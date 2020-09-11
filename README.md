@@ -1,2 +1,1 @@
-# rsschool-cv
-Markdown &amp; Git
+https://github.com/GSinkevich/rsschool-cv/blob/gh-pages/cv.md
