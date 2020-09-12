@@ -1,7 +1,7 @@
 # Yury Sinkevich
 ## Contact info:
  * +375292486062
- * [telegramm] https://t.me/YurySinkevich
+ * [telegramm] (https://t.me/YurySinkevich)
 
 ## Summary:
   I am a trainee front–end web developer with small learning experience. I have knowledge HTML, CSS  I'm a quick learner and a team player.  My English level is beginer.
@@ -22,7 +22,7 @@ I want to become a developer for solving interesting problems, development and c
   * Visual Studio Code
 
 ## Education:
-  * All internet 
+  * All internet and books
 
 ## English 
 Pre-Intermediate (A2)
