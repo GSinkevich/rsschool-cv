@@ -1,0 +1,17 @@
+.header {
+   display: flex;
+}
+.contacts {
+   margin: 0 0 0 100 ;
+   
+}
+.avatar {
+
+width: 150px;
+   
+}
+
+.contacts h2 {
+   text-align: center;
+}
+
