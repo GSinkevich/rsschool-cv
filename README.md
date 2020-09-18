@@ -1,1 +1,1 @@
-[Markdown](https://github.com/GSinkevich/rsschool-cv/blob/gh-pages/cv.md)
+https://gsinkevich.github.io/rsschool-cv/cv
